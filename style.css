@@ -1,0 +1,35 @@
+body{
+    max-width: 1024px;
+    margin: auto;
+    background-color: #b7b5af;
+    color: #40302a;
+}
+img{
+    width: 255px;
+    height: auto;
+}
+li{
+    font-family: Roboto, sans-serif;
+    font-size: 15px; 
+}
+h1{
+    margin-bottom: -8px;
+}
+h1, span{
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    font-style: italic;  
+    color: #40302a;
+    font-weight: normal;
+}
+ol{
+    max-width: 700px;
+    display: inline-block;
+}
